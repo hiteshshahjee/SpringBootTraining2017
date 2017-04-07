@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="emp-services"/>
+<aop-project name="eureka-server"/>
+<aop-project name="client-service"/>
+<aop-project name="boot-solution"/>
+</aop-reference-model>

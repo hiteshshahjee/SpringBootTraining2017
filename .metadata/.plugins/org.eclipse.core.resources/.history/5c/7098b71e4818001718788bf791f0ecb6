@@ -1,0 +1,9 @@
+package com.demo.spring;
+
+public class WriterApp {
+	Writer writer;
+	
+	public void print(String message){
+		System.out.println(writer.write(message));
+	}
+}

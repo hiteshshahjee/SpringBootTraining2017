@@ -1,0 +1,11 @@
+package com.demo.spring;
+
+public class MyLogger {
+	public void logBefore(){
+		
+	}
+	
+	public void logAfter(){
+		
+	}
+}

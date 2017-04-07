@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1491386027808_1" label="microservices" name="microservices">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MyEurekaClient" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/boot-app1" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MyEurekaServer_Mine" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/boot-solution" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1491477762796_3" label="cloud1" name="cloud1">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/emp-services" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/eureka-server" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/client-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-circuit-breaker" type="4"/>
+<item elementID="=bookstore" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=reading" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-routing-and-filtering" type="4"/>
+<item elementID="=book" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=gateway" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-cloud-eureka-example" type="4"/>
+<item elementID="=customer-interface" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=customer-service" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=customer-client-service" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-cloud-hystrix-example" type="4"/>
+<item elementID="=hystrix-dashboard" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=hystrix-example" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=turbine" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-cloud-zuul-example-aggregator" type="4"/>
+<item elementID="=zuul-server" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1491197841657_0" label="Window Working Set" name="Aggregate for window 1491197841641"/>
+<mruList name="cloud1"/>
+<mruList name="microservices"/>
+</workingSetManager>

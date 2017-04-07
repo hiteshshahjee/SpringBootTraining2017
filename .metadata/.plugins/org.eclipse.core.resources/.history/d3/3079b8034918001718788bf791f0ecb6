@@ -1,0 +1,10 @@
+package com.demo.spring;
+
+public class PlainTextWriter implements Writer{
+
+	@Override
+	public String write(String s) {
+		return "Plain Text Writer: " + s;
+	}	
+	
+}

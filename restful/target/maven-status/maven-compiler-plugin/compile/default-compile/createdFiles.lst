@@ -1,0 +1,11 @@
+com\demo\spring\DeleteClient.class
+com\demo\spring\PostClient.class
+com\demo\spring\MyResource1.class
+com\demo\spring\dao\CustDAOImpl$1.class
+com\demo\spring\ListEntity.class
+com\demo\spring\CustomerResource.class
+com\demo\spring\Client.class
+com\demo\spring\Client2.class
+com\demo\spring\Customer.class
+com\demo\spring\dao\CustDAO.class
+com\demo\spring\dao\CustDAOImpl.class

@@ -1,0 +1,18 @@
+package com.demo.jpa;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.demo.jpa.repo.MyRepositiry;
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+        ApplicationContext ctx = new AnnotationConfigApplicationContext(Config.class);
+        
+        MyRepositiry repo = (MyRepositiry) ctx.getBean("myRepositiry");
+        
+        List<Emp> empList = repo.findAll();
+    }
+}

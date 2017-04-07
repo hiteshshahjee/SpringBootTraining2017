@@ -1,0 +1,5 @@
+com\demo\spring\WebAppInitializer.class
+com\demo\clients\GetClient1.class
+com\demo\spring\MyRestService.class
+com\demo\spring\WebConfig.class
+com\demo\spring\Emp.class

@@ -1,0 +1,17 @@
+package com.demo.spring;
+
+import java.util.logging.Logger;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class MyLogger {
+	Logger logger = Logger.getLogger("demo");
+	public void logBefore(){
+		logger.info("Before doConcat method is called..");
+	}
+	
+	public void logAfter(){
+		logger.info("After doConcat method is called..");
+	}
+}

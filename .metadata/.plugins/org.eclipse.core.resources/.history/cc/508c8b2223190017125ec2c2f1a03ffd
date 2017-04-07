@@ -1,0 +1,9 @@
+package com.demo.jpa.repo;
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.demo.jpa.Emp;
+
+public interface MyRepositiry extends CrudRepository<Emp, Integer> {
+
+}
